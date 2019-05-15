@@ -1,0 +1,6 @@
+# Ignore all png files
+*.png
+
+#Ignore all fig files
+*.fig
+
