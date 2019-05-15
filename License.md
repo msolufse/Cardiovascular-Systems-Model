@@ -1,4 +1,4 @@
-#Licensing information
+# Licensing information
 
 Copyright (C) 2019 Mette S. Olufsen (msolufse@ncsu.edu)
 Department of Mathematics, NC State University, Raleigh, NC
